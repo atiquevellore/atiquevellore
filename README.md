@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @atiquevellore
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning intermediate js
+- 👀 I’m interested in Software Developement
+- 🌱 I’m currently learning intermediate Java
 - 📫 How to reach me ... insta (@atiquevallur)
 
 <!---
