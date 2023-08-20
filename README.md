@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @atiquevellore
-- 👀 I’m interested in Software Developement
-- 🌱 I’m currently learning intermediate Java
+- Software Engineer I at Oracle Cerner
 - 📫 How to reach me ... insta (@atiquevallur)
 
 <!---
