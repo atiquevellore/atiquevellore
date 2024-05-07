@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @atiquevellore
-- Software Engineer I at Oracle Cerner
+- Associate Software Engineer at Oracle Cerner
 - 📫 How to reach me ... :📩atiquevellore@gmail.com,Linkedin(https://www.linkedin.com/in/atique-bokhari-284327197/)
 
 <!---
