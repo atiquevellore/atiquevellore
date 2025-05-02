@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @atiquevellore
 - Associate Software Engineer at Oracle Cerner
-- 📫 How to reach me ... :📩atiquevellore@gmail.com,Linkedin(https://www.linkedin.com/in/atique-bokhari-284327197/)
+- 📫 How to reach me ... :📩atiquevellore@gmail.com,Linkedin(https://www.linkedin.com/in/mdatique)
 
 <!---
 atiquevellore/atiquevellore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
