@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @atiquevellore
-- Associate Software Engineer at Oracle Cerner
+- Associate Software Engineer with 3 years of experience in building scalable web applications using React, Redux, Ruby on Rails, and MySQL.
 - 📫 How to reach me ... :📩atiquevellore@gmail.com,Linkedin(https://www.linkedin.com/in/mdatique)
 
 <!---
